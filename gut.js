@@ -1,5 +1,5 @@
-// JavaScript for Name Data Lookup Demo
-// Jim Skon, Kenyon College, 2019
+// JavaScript for Looking up books
+// Jim Skon, Kenyon College, 2024
 var searchType;  // Save search type here
 const baseUrl = 'https://gutendex.com';
 var nextMatches = '';
